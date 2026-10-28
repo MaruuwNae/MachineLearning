@@ -1,0 +1,47 @@
+Lab 4 (71616)
+
+Rows: 48842
+Columns: 15
+Duplicates: 52
+Conflicting duplicate groups: 5
+Invalid income values: 0
+Invalid age values: 0
+Invalid working hours: 0
+
+Column types:
+age               int64
+workclass           str
+fnlwgt            int64
+education           str
+education-num     int64
+marital-status      str
+occupation          str
+relationship        str
+race                str
+sex                 str
+capital-gain      int64
+capital-loss      int64
+hours-per-week    int64
+native-country      str
+income              str
+dtype: object
+
+Missing values:
+age                  0
+workclass         2799
+fnlwgt               0
+education            0
+education-num        0
+marital-status       0
+occupation        2809
+relationship         0
+race                 0
+sex                  0
+capital-gain         0
+capital-loss         0
+hours-per-week       0
+native-country     857
+income               0
+dtype: int64
+
+50 random rows saved to label_check.csv

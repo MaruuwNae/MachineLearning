@@ -1,0 +1,12 @@
+Lab 4 (71616)
+
+Before feature engineering:
+Accuracy: 0.8504
+F1-score: 0.6537
+
+After feature engineering:
+Accuracy: 0.8555
+F1-score: 0.6678
+
+Accuracy difference: +0.0051
+F1 difference: +0.0141
