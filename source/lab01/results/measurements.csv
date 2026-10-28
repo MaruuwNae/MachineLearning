@@ -1,0 +1,3 @@
+Model,Accuracy,Train ms,Latency ms,Size bytes,Size KB,Memory MB
+Logistic Regression,0.9415,308.496,0.208,1103,1.08,149.04
+Random Forest,0.9357,168.696,7.6478,290889,284.07,149.93
